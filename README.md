@@ -82,6 +82,6 @@ Special thanks to the Python Study Group facilitators and fellow learners for cr
 
 I'm always open to learning, collaboration, and feedback.
 
-**GitHub:** https://github.com/Oluwa-fisayomi
+**LinkedIn:** https://www.linkedin.com/in/ayotomiwa-owolabi-70b714409?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 Thank you for visiting my repository!
