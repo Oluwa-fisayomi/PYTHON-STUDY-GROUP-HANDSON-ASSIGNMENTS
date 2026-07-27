@@ -34,20 +34,6 @@ The goal of this repository is to document my learning journey, showcase my prog
 * String Methods
 * Formatted Strings (f-Strings)
 
----
-
-##  Repository Structure
-
-```text
-Python-Study-Group-Gift-1/
-│
-├── Hands-On #1 – Exercise on Operators in Python.ipynb
-├── Hands-On #2 – User Input and Variables.ipynb
-├── Hands-On #3 – Working with Strings.ipynb
-├── Hands-On #4 – String Methods.ipynb
-├── Hands-On #5 – String Indexing and Slicing.ipynb
-└── README.md
-```
 
 ---
 
